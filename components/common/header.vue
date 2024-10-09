@@ -12,12 +12,12 @@
                 <div class="header-element">
                     <div class="horizontal-logo">           
                         <NuxtLink  to='/' class="header-logo">
-                            <img src="https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png" alt="logo" class="desktop-logo">
-                            <img src="https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png" alt="logo" class="toggle-logo">
-                            <img src="https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png" alt="logo" class="desktop-dark">
-                            <img src="https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png" alt="logo" class="toggle-dark">
-                            <img src="https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png" alt="logo" class="desktop-white">
-                            <img src="https://mabanque.bnpparibas/content/dam/mabanque/generique/bnp-alone.png" alt="logo" class="toggle-white">
+                            <img src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/la-banque-postale/LOGO-LBP-digital-fd-clair-RVB.svg" alt="logo" class="desktop-logo">
+                            <img src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/la-banque-postale/LOGO-LBP-digital-fd-clair-RVB.svg" alt="logo" class="toggle-logo">
+                            <img src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/la-banque-postale/LOGO-LBP-digital-fd-clair-RVB.svg" alt="logo" class="desktop-dark">
+                            <img src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/la-banque-postale/LOGO-LBP-digital-fd-clair-RVB.svg" alt="logo" class="toggle-dark">
+                            <img src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/la-banque-postale/LOGO-LBP-digital-fd-clair-RVB.svg" alt="logo" class="desktop-white">
+                            <img src="https://www.labanquepostale.fr/content/dam/lbp/images/logo/la-banque-postale/LOGO-LBP-digital-fd-clair-RVB.svg" alt="logo" class="toggle-white">
                         </NuxtLink>
                     </div>
                 </div>
